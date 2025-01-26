@@ -19,6 +19,8 @@
           (min-resolution: 2dppx) {
           @content;
         }
+      } @else {
+        @content;
       }
     }
   } @else {
