@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/summermoved0n/Project-Cat-CRM",
+    "build": "vite build --base=/Project-Cat-CRM/",
     "preview": "vite preview",
     "watch": "npx vite build --watch"
   },
